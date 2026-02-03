@@ -1,129 +1,133 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Mobile/15E148 Safari/604.1" version="29.3.6">
-  <diagram name="Страница-1" id="rx_0IRb7mOOgDOSFr_jH">
+  <diagram name="Страница-1" id="6tv5Yd8Raa1IKA3z9ENS">
     <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Доктрина информационной безопасности РФ" vertex="1">
-          <mxGeometry height="102" width="260" x="956" y="8" as="geometry" />
+        <mxCell id="2" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Доктрины информационной безопасности РФ" vertex="1">
+          <mxGeometry height="102" width="260" x="741" y="8" as="geometry" />
         </mxCell>
-        <mxCell id="3" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Цели и задачи" vertex="1">
-          <mxGeometry height="54" width="167" x="171" y="172" as="geometry" />
+        <mxCell id="3" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Общие положения" vertex="1">
+          <mxGeometry height="54" width="197" x="8" y="172" as="geometry" />
         </mxCell>
-        <mxCell id="4" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Основные принципы" vertex="1">
-          <mxGeometry height="54" width="211" x="705" y="172" as="geometry" />
+        <mxCell id="4" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Национальные интересы" vertex="1">
+          <mxGeometry height="54" width="244" x="255" y="172" as="geometry" />
         </mxCell>
-        <mxCell id="5" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Стратегические направления" vertex="1">
-          <mxGeometry height="78" width="260" x="1221" y="160" as="geometry" />
+        <mxCell id="5" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Виды угроз" vertex="1">
+          <mxGeometry height="54" width="143" x="548" y="172" as="geometry" />
         </mxCell>
-        <mxCell id="6" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Роль органов власти" vertex="1">
-          <mxGeometry height="54" width="213" x="1853" y="172" as="geometry" />
+        <mxCell id="6" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Стратегические цели и направления обеспечения" vertex="1">
+          <mxGeometry height="78" width="260" x="741" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="7" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Защита информации" vertex="1">
-          <mxGeometry height="54" width="213" x="8" y="300" as="geometry" />
+        <mxCell id="7" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Организационные основы" vertex="1">
+          <mxGeometry height="54" width="251" x="1051" y="172" as="geometry" />
         </mxCell>
-        <mxCell id="8" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Обеспечение интеграции" vertex="1">
-          <mxGeometry height="54" width="248" x="271" y="300" as="geometry" />
+        <mxCell id="8" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Методы обеспечения" vertex="1">
+          <mxGeometry height="54" width="217" x="1699" y="172" as="geometry" />
         </mxCell>
-        <mxCell id="9" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Комплексный подход" vertex="1">
-          <mxGeometry height="54" width="218" x="569" y="300" as="geometry" />
+        <mxCell id="9" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Основные функции системы" vertex="1">
+          <mxGeometry height="78" width="260" x="1966" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="10" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Превентивные меры" vertex="1">
-          <mxGeometry height="54" width="211" x="837" y="300" as="geometry" />
+        <mxCell id="10" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Правовые методы" vertex="1">
+          <mxGeometry height="54" width="193" x="1434" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="11" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Развитие технологий" vertex="1">
-          <mxGeometry height="54" width="216" x="1099" y="300" as="geometry" />
+        <mxCell id="11" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Организационно-технические методы" vertex="1">
+          <mxGeometry height="78" width="260" x="1677" y="288" as="geometry" />
         </mxCell>
-        <mxCell id="12" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Укрепление сотрудничества" vertex="1">
-          <mxGeometry height="78" width="260" x="1365" y="288" as="geometry" />
+        <mxCell id="12" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Экономические методы" vertex="1">
+          <mxGeometry height="54" width="236" x="1987" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="13" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Государственная политика" vertex="1">
-          <mxGeometry height="54" width="259" x="1675" y="300" as="geometry" />
+        <mxCell id="13" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Президент" vertex="1">
+          <mxGeometry height="54" width="138" x="933" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="14" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Международное взаимодействие" vertex="1">
-          <mxGeometry height="78" width="260" x="1984" y="288" as="geometry" />
+        <mxCell id="14" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Совбез" vertex="1">
+          <mxGeometry height="54" width="111" x="1121" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="15" edge="1" parent="1" source="2" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.62;entryX=0.5;entryY=0;" target="3" value="">
+        <mxCell id="15" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ФОИВ" vertex="1">
+          <mxGeometry height="54" width="102" x="1282" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="16" edge="1" parent="1" source="2" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.5;entryY=0;" target="3" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="254" y="135" />
+              <mxPoint x="106" y="135" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="16" edge="1" parent="1" source="2" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.85;entryX=0.5;entryY=0;" target="4" value="">
+        <mxCell id="17" edge="1" parent="1" source="2" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=0.5;entryY=0;" target="4" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="810" y="135" />
+              <mxPoint x="376" y="135" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="17" edge="1" parent="1" source="2" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.87;entryX=0.5;entryY=0;" target="5" value="">
+        <mxCell id="18" edge="1" parent="1" source="2" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.89;entryX=0.5;entryY=0;" target="5" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1351" y="135" />
+              <mxPoint x="620" y="135" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="18" edge="1" parent="1" source="2" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0.5;entryY=0;" target="6" value="">
+        <mxCell id="19" edge="1" parent="1" source="2" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20" edge="1" parent="1" source="2" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.82;entryX=0.5;entryY=0;" target="7" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1959" y="135" />
+              <mxPoint x="1177" y="135" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="19" edge="1" parent="1" source="3" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=1;entryX=0.5;entryY=0;" target="7" value="">
+        <mxCell id="21" edge="1" parent="1" source="2" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.6;entryX=0.5;entryY=0;" target="8" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="114" y="263" />
+              <mxPoint x="1807" y="135" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="20" edge="1" parent="1" source="3" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=1;entryX=0.5;entryY=0;" target="8" value="">
+        <mxCell id="22" edge="1" parent="1" source="2" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.58;entryX=0.5;entryY=0;" target="9" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="395" y="263" />
+              <mxPoint x="2096" y="135" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="21" edge="1" parent="1" source="4" style="curved=1;startArrow=none;endArrow=block;exitX=0.23;exitY=1;entryX=0.5;entryY=0;" target="9" value="">
+        <mxCell id="23" edge="1" parent="1" source="8" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=0;" target="10" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="678" y="263" />
+              <mxPoint x="1531" y="263" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="22" edge="1" parent="1" source="4" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=1;entryX=0.5;entryY=0;" target="10" value="">
+        <mxCell id="24" edge="1" parent="1" source="8" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="11" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25" edge="1" parent="1" source="8" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.93;entryX=0.5;entryY=0;" target="12" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="943" y="263" />
+              <mxPoint x="2105" y="263" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="23" edge="1" parent="1" source="5" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=1;entryX=0.5;entryY=0;" target="11" value="">
+        <mxCell id="26" edge="1" parent="1" source="7" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=1;entryX=0.5;entryY=0;" target="13" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1207" y="263" />
+              <mxPoint x="1002" y="263" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="24" edge="1" parent="1" source="5" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=1;entryX=0.5;entryY=0;" target="12" value="">
+        <mxCell id="27" edge="1" parent="1" source="7" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="14" value="">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1495" y="263" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="25" edge="1" parent="1" source="6" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=1;entryX=0.5;entryY=0;" target="13" value="">
+        <mxCell id="28" edge="1" parent="1" source="7" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=1;entryX=0.5;entryY=0;" target="15" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1804" y="263" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="26" edge="1" parent="1" source="6" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1;entryX=0.5;entryY=0;" target="14" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2114" y="263" />
+              <mxPoint x="1333" y="263" />
             </Array>
           </mxGeometry>
         </mxCell>
