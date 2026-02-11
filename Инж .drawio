@@ -1,0 +1,96 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Mobile/15E148 Safari/604.1" version="29.3.8">
+  <diagram name="Страница-1" id="PoMz3LV009P33AQSu6sV">
+    <mxGraphModel dx="1434" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageEnabled="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <!-- Level 1: ГД -->
+        <mxCell id="gd" value="ГД" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#1a1a1a;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="50" width="180" height="80" as="geometry" />
+        </mxCell>
+        <!-- Level 2: Key Departments -->
+        <mxCell id="mto" value="МТО" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#1a1a1a;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ok" value="ОК" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#1a1a1a;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="310" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ib" value="ИБ" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#1a1a1a;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="530" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buh" value="Бух" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#1a1a1a;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="750" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <!-- Connections from ГД to Level 2 -->
+        <mxCell id="gd-mto-edge" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gd" target="mto">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gd-ok-edge" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gd" target="ok">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gd-ib-edge" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gd" target="ib">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gd-buh-edge" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gd" target="buh">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- Level 3: Sub-departments under MTO -->
+        <mxCell id="snab" value="Снабжение" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e0e0e0;strokeColor=#999999;fontColor=#1a1a1a;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="20" y="350" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="log" value="Логистика" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e0e0e0;strokeColor=#999999;fontColor=#1a1a1a;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="180" y="350" width="120" height="50" as="geometry" />
+        </mxCell>
+        <!-- Connections from MTO to its sub-departments -->
+        <mxCell id="mto-snab-edge" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mto" target="snab">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mto-log-edge" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mto" target="log">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- Level 3: Sub-departments under OK -->
+        <mxCell id="rec" value="Рекрутинг" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e0e0e0;strokeColor=#999999;fontColor=#1a1a1a;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="240" y="350" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="obuch" value="Обучение" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e0e0e0;strokeColor=#999999;fontColor=#1a1a1a;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="400" y="350" width="120" height="50" as="geometry" />
+        </mxCell>
+        <!-- Connections from OK to its sub-departments -->
+        <mxCell id="ok-rec-edge" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ok" target="rec">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ok-obuch-edge" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ok" target="obuch">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- Level 3: Sub-departments under IB -->
+        <mxCell id="zd" value="Защита данных" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e0e0e0;strokeColor=#999999;fontColor=#1a1a1a;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="460" y="350" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sb" value="Сетевая безопасность" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e0e0e0;strokeColor=#999999;fontColor=#1a1a1a;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="620" y="350" width="120" height="50" as="geometry" />
+        </mxCell>
+        <!-- Connections from IB to its sub-departments -->
+        <mxCell id="ib-zd-edge" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ib" target="zd">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ib-sb-edge" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ib" target="sb">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- Level 3: Sub-departments under Buh -->
+        <mxCell id="rasch" value="Расчеты" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e0e0e0;strokeColor=#999999;fontColor=#1a1a1a;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="680" y="350" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="otch" value="Отчетность" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e0e0e0;strokeColor=#999999;fontColor=#1a1a1a;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="840" y="350" width="120" height="50" as="geometry" />
+        </mxCell>
+        <!-- Connections from Buh to its sub-departments -->
+        <mxCell id="buh-rasch-edge" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="buh" target="rasch">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buh-otch-edge" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="buh" target="otch">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
