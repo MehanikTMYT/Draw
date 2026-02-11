@@ -1,0 +1,66 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Mobile/15E148 Safari/604.1" version="29.3.8">
+  <diagram name="Страница-1" id="0pQ1TBPngblL0lLSP3CX">
+    <mxGraphModel dx="1000" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <!-- Company Name -->
+        <mxCell id="2" value="ООО «Кулинарные Традиции»" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Handlee;fontSize=20;fontStyle=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="50" width="300" height="40" as="geometry" />
+        </mxCell>
+        <!-- ГД (Генеральный директор) -->
+        <mxCell id="3" value="ГД (Генеральный директор)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Handlee;fontSize=16;sketch=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="200" height="60" as="geometry" />
+        </mxCell>
+        <!-- Key Departments -->
+        <mxCell id="4" value="МТО (материально-техническое обеспечение)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Handlee;fontSize=14;sketch=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="250" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="ОК (отдел кадров)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Handlee;fontSize=14;sketch=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="250" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="ИБ (информационная безопасность)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Handlee;fontSize=14;sketch=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="500" y="250" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Бух (бухгалтерия)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Handlee;fontSize=14;sketch=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="700" y="250" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Коммерческий отдел" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Handlee;fontSize=14;sketch=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="250" y="350" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Производственные цеха" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Handlee;fontSize=14;sketch=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="350" width="200" height="60" as="geometry" />
+        </mxCell>
+        <!-- Empty Blocks for Expansion -->
+        <mxCell id="10" value="Новый отдел" style="dashed=1;rounded=1;whiteSpace=wrap;html=1;fontFamily=Handlee;fontSize=14;sketch=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="450" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Новый отдел" style="dashed=1;rounded=1;whiteSpace=wrap;html=1;fontFamily=Handlee;fontSize=14;sketch=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="425" y="450" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Новый отдел" style="dashed=1;rounded=1;whiteSpace=wrap;html=1;fontFamily=Handlee;fontSize=14;sketch=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="700" y="450" width="150" height="50" as="geometry" />
+        </mxCell>
+        <!-- Whiteboard Elements -->
+        <!-- Blue Eraser -->
+        <mxCell id="13" value="" style="shape=rectangle;fillColor=#6a00ff;strokeColor=#000000;sketch=1;fontFamily=Handlee;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="850" y="650" width="80" height="40" as="geometry" />
+        </mxCell>
+        <!-- Smile -->
+        <mxCell id="14" value="" style="shape=smiley;fillColor=#000000;strokeColor=#000000;sketch=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="870" y="700" width="40" height="20" as="geometry" />
+        </mxCell>
+        <!-- Smudges -->
+        <mxCell id="15" value="" style="shape=cloud;fillColor=#e6e6e6;strokeColor=none;opacity=50;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="600" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="" style="shape=ellipse;fillColor=#e6e6e6;strokeColor=none;opacity=50;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="70" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="" style="shape=rectangle;fillColor=#e6e6e6;strokeColor=none;opacity=50;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
